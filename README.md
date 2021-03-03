@@ -18,7 +18,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working as a full stack developer.
+- 🔭 I’m currently working as TOS(Terminal Operation System) developer.
 - 🌱 I’m currently learning Vue.js.
 - 🌎 Contact me : kthrkdals@kakao.com
 
