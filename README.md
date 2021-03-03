@@ -1,19 +1,20 @@
 ### 👋 Developer 
-<!-- Java & Spring -->
-![image](https://user-images.githubusercontent.com/48821257/109752395-afcbca00-7c23-11eb-844a-7e77bb6d6464.png)
-![image](https://user-images.githubusercontent.com/48821257/109754520-8614a200-7c27-11eb-9429-4eaddaa68e1b.png)
-![image](https://user-images.githubusercontent.com/48821257/109752479-d2f67980-7c23-11eb-8c16-5334607d4305.png)
-![image](https://user-images.githubusercontent.com/48821257/109752481-d4c03d00-7c23-11eb-98ae-97c4c7897c80.png)
-![image](https://user-images.githubusercontent.com/48821257/109752506-df7ad200-7c23-11eb-88d4-53be28655dbc.png)
-![image](https://user-images.githubusercontent.com/48821257/109752423-bbb78c00-7c23-11eb-946c-59d026159b22.png)
-![image](https://user-images.githubusercontent.com/48821257/109752403-b35f5100-7c23-11eb-8d66-b3f9600e215d.png)
-![image](https://user-images.githubusercontent.com/48821257/109752405-b5c1ab00-7c23-11eb-9d27-3ecc8d2853a5.png)
-![image](https://user-images.githubusercontent.com/48821257/109752417-b9553200-7c23-11eb-95d0-9a84e75722ff.png)
-![image](https://user-images.githubusercontent.com/48821257/109752512-e30e5900-7c23-11eb-88e6-54981966ab96.png)
-![image](https://user-images.githubusercontent.com/48821257/109752691-35e81080-7c24-11eb-82cd-8298314be1c0.png)
-![image](https://user-images.githubusercontent.com/48821257/109752575-ffaa9100-7c23-11eb-8a33-ec1d85771877.png)
-![image](https://user-images.githubusercontent.com/48821257/109752582-020ceb00-7c24-11eb-8151-ec07296c6e2e.png)
+![Java_8](https://img.shields.io/badge/java8-red?logo=java)
+![Java_11](https://img.shields.io/badge/java11-red?logo=java)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=spring)
+![Maven](https://img.shields.io/badge/Maven-C71A36.svg?logo=apache-maven)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?logo=Gradle)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=Oracle)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB)
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
