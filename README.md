@@ -34,7 +34,6 @@
 <br>
 
 - 🔭 I'm currently a Terminal Operation System (TOS) developer and has been working since July 6, 2020.
-- 🌱 I’m currently learning Vue.js.
 - 🌎 Contact me : kthrkdals@kakao.com
 
 
