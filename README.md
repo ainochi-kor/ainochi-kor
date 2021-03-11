@@ -1,11 +1,11 @@
 ### 👋 Developer 
-*main*
+*Main* : 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white)
 
-*Try it*
+*Try it* : 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/TypeScript-7952B3?logo=BootStrap&logoColor=white)
@@ -15,7 +15,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=Svelte&logoColor=white)
 
-*Use it & etc.*
+*Use it & etc.* : 
 ![Java_8](https://img.shields.io/badge/java8-red?logo=java&logoColor=white)
 ![Java_11](https://img.shields.io/badge/java11-red?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
