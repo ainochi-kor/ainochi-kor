@@ -7,12 +7,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white)
 
-### ✌ Front Sub Skills
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white)
-![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
-
 ### 👀 Used it & etc. 
 ![Java_8](https://img.shields.io/badge/java8-red?logo=java&logoColor=white)
 ![Java_11](https://img.shields.io/badge/java11-red?logo=java&logoColor=white)
@@ -25,6 +19,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
+![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -47,6 +43,9 @@
 
 Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=MariaDB&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=Angular&logoColor=white)
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white)
