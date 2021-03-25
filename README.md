@@ -37,6 +37,7 @@
 
 - 🔭 I'm currently a Terminal Operation System (TOS) developer and has been working since July 6, 2020.
 - 🌎 Contact me : kthrkdals@kakao.com
+- 🌱 Blog Test : https://ainochi-kor.github.io/.
 
 <!--
 **ainochi-kor/ainochi-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
