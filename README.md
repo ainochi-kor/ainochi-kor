@@ -33,11 +33,12 @@
 ### ❤ Web 이력.
 - [TOS] Tally WebApp 제작 및 유지보수
 - [TOS] Reefer WebApp 제작 및 유지보수
-- 추가 중
+- [Clone] [StarBucks Coffee Korea](https://clone-starbucks.netlify.app/)
 
-- 🔭 I'm currently a Terminal Operation System (TOS) developer and has been working since July 6, 2020.
+
+### Etc.
 - 🌎 Contact me : kthrkdals@kakao.com
-- 🌱 Blog Test : https://ainochi-kor.github.io/.
+- 🌱 Blog : https://ainochi-kor.github.io/.
 
 <!--
 **ainochi-kor/ainochi-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
