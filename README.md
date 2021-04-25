@@ -30,9 +30,10 @@
 &ensp; **'프론트 엔드 개발자'** 로 개발자로서 정체성을 확립.
 
 
-### ❤ Web 이력.
+### ❤ 이력.
 - [TOS] Tally WebApp 제작 및 유지보수
 - [TOS] Reefer WebApp 제작 및 유지보수
+- [TOS] Quay WebApp 제작 및 유지보수
 - [Clone] [StarBucks Coffee Korea](https://clone-starbucks.netlify.app/)
 
 
