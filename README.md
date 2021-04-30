@@ -41,6 +41,10 @@
 - 🌎 Contact me : kthrkdals@kakao.com
 - 🌱 Blog : https://ainochi-kor.github.io/.
 
+
+
+[![tommy0920's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tommy0920)](https://wakatime.com/@tommy0920)
+
 <!--
 **ainochi-kor/ainochi-kor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,6 +59,8 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=Svelte&logoColor=white)
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
