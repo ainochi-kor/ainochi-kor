@@ -39,8 +39,8 @@
 
 ### Etc.
 - 🌎 Contact me : kthrkdals@kakao.com
-- 🌱 Blog : https://ainochi-kor.github.io/.
-
+- 🌱 Engineering Blog : https://velog.io/@ainochi95
+- 📖 Study Blog : https://ainochi-kor.github.io/.
 
 
 [![tommy0920's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tommy0920)](https://wakatime.com/@tommy0920)
