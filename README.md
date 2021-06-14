@@ -11,6 +11,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white)
 
 
 
