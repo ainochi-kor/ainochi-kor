@@ -1,16 +1,16 @@
 # 📖 READ ME 
  
 ## 🎨 Front
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white)
+![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white)
-![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white)
 
 
 
