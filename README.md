@@ -1,4 +1,6 @@
-# 📖 나를 읽어주세요
+> 2021.09.01 'Team Snowball' 근무 예정
+
+# Tommy
  
 ## 🎨 활용 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white)
@@ -6,12 +8,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=JavaScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=Sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white)
 ![Java_8](https://img.shields.io/badge/java8-red?logo=java&logoColor=white)
 ![Java_11](https://img.shields.io/badge/java11-red?logo=java&logoColor=white)
 
-
 ## 🌱 경험
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
@@ -41,7 +42,6 @@
 - [Project] [CBTI](https://github.com/CBTI/Front_CBTI) (React)- **제작 중** (React(Hooks))
 - [Study] [Clone Book](https://clonebook.netlify.app/) (HTML, CSS, JS, React etc.)
 - [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
-
 
 ### Etc.
 - 🌎 이메일 : kthrkdals@kakao.com
