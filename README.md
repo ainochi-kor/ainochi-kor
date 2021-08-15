@@ -1,4 +1,5 @@
-> 2021.09.01 'Team Snowball' 근무 예정
+> 2020.07.05 'Total Soft Bank'   
+> 2021.09.01 'Team Snow Ball'  
 
 # Tommy
  
