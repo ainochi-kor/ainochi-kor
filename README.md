@@ -35,12 +35,6 @@
 <br>
 
 ### ❤ 이력.
-- [TOS] Tally WebApp 제작 및 유지보수 (JavaScript & Spring Boot)
-- [TOS] Reefer WebApp 제작 및 유지보수 (JavaScript & Spring Boot)
-- [TOS] Quay WebApp 제작 및 유지보수 (JavaScript & Spring Boot)
-- [TOS] YardTruck WebApp 유지보수 (JavaScript & Spring Boot)
-- [TOS] Yard WebApp 유지보수 (JavaScript & Spring)
-- [Project] [CBTI](https://github.com/CBTI/Front_CBTI) (React)- **제작 중** (React(Hooks))
 - [Study] [Clone Book](https://clonebook.netlify.app/) (HTML, CSS, JS, React etc.)
 - [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
 
