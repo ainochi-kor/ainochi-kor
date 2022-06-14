@@ -1,3 +1,5 @@
+> 조잡하지 않게 정리 중.
+
 # Tommy 
 - 언어: TypeScript(JavaScript)
 - 프레임워크: React
@@ -5,6 +7,7 @@
 - 다국어: i18next
 - 스타일: mui, emotion
 - lib: react-router-dom, react-query, react-table, axios
+- other: 블록체인 학습 중
 <!-- 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br> -->
