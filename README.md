@@ -1,6 +1,4 @@
-> 조잡하지 않게 정리 중.
-
-# Tommy 
+# Nochi 
 - 언어: TypeScript(JavaScript)
 - 프레임워크: React
 - 상태관리: Recoil(Redux)
