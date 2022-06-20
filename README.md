@@ -11,13 +11,13 @@
 <br> -->
 
 ### ❤ 이력.
-- [Study] [Clone Book](https://clonebook.netlify.app/) (HTML, CSS, JS, React etc.)
+- [Study] [Clone Book](https://clonebook.netlify.app/) (초창기 잡기술..)
+- [Study] [Lib-Testing](https://lib-testing-project.netlify.app/) (lib를 React TS로 변환해서 사용하기)
 - [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
 
-### Etc.
-- 🌎 이메일 : kthrkdals@kakao.com
-- 🌱 블로그 : https://velog.io/@ainochi95
-- 📖 공부 : https://ainochi-kor.github.io/.
+### 선택 시, 플랫폼 이동
+- [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/)
 
 <!-- 
 [![tommy0920's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tommy0920)](https://wakatime.com/@tommy0920)
