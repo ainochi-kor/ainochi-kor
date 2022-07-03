@@ -25,16 +25,16 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white)
 
+## Clickable
 [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/)
 
+[![Lib_Test](https://img.shields.io/badge/Lib_Test-3DDC84?logo=Lib_Test&logoColor=white)](https://lib-testing-project.netlify.app/)
 <!-- 
 - [Study] [Clone Book](https://clonebook.netlify.app/) (초창기 잡기술..)
 - [Study] [Todo List](https://ainochi-todo-list.netlify.app/) (흔한 Todo에 잡다한 오류 수정 및 요구사항 추가) 
--->
-
-- [Study] [Lib-Testing](https://lib-testing-project.netlify.app/) (lib를 React TS로 변환해서 사용하기)
 - [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
+-->
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
