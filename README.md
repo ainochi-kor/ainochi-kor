@@ -33,8 +33,8 @@
 <!-- 
 - [Study] [Clone Book](https://clonebook.netlify.app/) (초창기 잡기술..)
 - [Study] [Todo List](https://ainochi-todo-list.netlify.app/) (흔한 Todo에 잡다한 오류 수정 및 요구사항 추가) 
-- [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
 -->
+- [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
