@@ -1,4 +1,5 @@
 # Nochi
+## Main
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white) 
 ![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?logo=ReactQuery&logoColor=white) 
@@ -9,16 +10,17 @@
 ![i18next](https://img.shields.io/badge/i18next-26A69A.svg?logo=i18next&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white)
 ![Emotion](https://img.shields.io/badge/Emotion-C865B9.svg?logo=Emotion&logoColor=white)
-
+## Sub
 ![Solidity](https://img.shields.io/badge/Solidity-363636.svg?logo=Solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=Ethereum&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=Node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=SpringBoot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52.svg?logo=Qt&logoColor=white)
-
+## Etc
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?logo=VisualStudioCode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)
