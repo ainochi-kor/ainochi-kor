@@ -1,47 +1,17 @@
 # Nochi
-## Main
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white) 
-![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?logo=ReactQuery&logoColor=white) 
-![React Table](https://img.shields.io/badge/React_Table-FF4154.svg?logo=ReactTable&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?logo=ReactRouter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=Redux&logoColor=white)
-![Recoil](https://img.shields.io/badge/Recoil-3578e5.svg?logo=Recoil&logoColor=white)
-![i18next](https://img.shields.io/badge/i18next-26A69A.svg?logo=i18next&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white)
-![Emotion](https://img.shields.io/badge/Emotion-C865B9.svg?logo=Emotion&logoColor=white)
-## Sub
-![Solidity](https://img.shields.io/badge/Solidity-363636.svg?logo=Solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=Ethereum&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=Node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=SpringBoot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52.svg?logo=Qt&logoColor=white)
-## Etc
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?logo=VisualStudioCode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white)
 
-## Clickable
-[![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/)
+<b>리액트</b> 타입스크립트 개발 합니다.
 
-[![Lib_Test](https://img.shields.io/badge/Lib_Test-3DDC84?logo=Lib_Test&logoColor=white)](https://lib-testing-project.netlify.app/)
-<!-- 
-- [Study] [Clone Book](https://clonebook.netlify.app/) (초창기 잡기술..)
-- [Study] [Todo List](https://ainochi-todo-list.netlify.app/) (흔한 Todo에 잡다한 오류 수정 및 요구사항 추가) 
--->
 - [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
+- [Work] TotalSoftBank(항만물류 시스템 회사) => TA, RF, YT 등 B2B 웹 프로덕트(풀스택)
+- [Work] TeamSnowBall(e-Sport 데이터 분석) => B2B E-Sport 분석 사이트, B2C Twitch Extension 프로덕트
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-
+ [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95)
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/)
+ 
 <!--
 [![Nochi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nochi)](https://wakatime.com/@Nochi)
  -->
@@ -90,3 +60,41 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 -->
+
+<!-- ## Sub
+![Solidity](https://img.shields.io/badge/Solidity-363636.svg?logo=Solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?logo=Ethereum&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=Go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?logo=Node.js&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=Kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?logo=SpringBoot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52.svg?logo=Qt&logoColor=white)
+## Etc
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?logo=VisualStudioCode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=GitHub&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000.svg?logo=Notion&logoColor=white) -->
+
+<!-- 
+- [Study] [Clone Book](https://clonebook.netlify.app/) (초창기 잡기술..)
+- [Study] [Todo List](https://ainochi-todo-list.netlify.app/) (흔한 Todo에 잡다한 오류 수정 및 요구사항 추가) 
+-->
+
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=TypeScript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB.svg?logo=React&logoColor=white) 
+![React Query](https://img.shields.io/badge/React_Query-FF4154.svg?logo=ReactQuery&logoColor=white) 
+![React Table](https://img.shields.io/badge/React_Table-FF4154.svg?logo=ReactTable&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245.svg?logo=ReactRouter&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?logo=Redux&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578e5.svg?logo=Recoil&logoColor=white)
+![i18next](https://img.shields.io/badge/i18next-26A69A.svg?logo=i18next&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white)
+![Emotion](https://img.shields.io/badge/Emotion-C865B9.svg?logo=Emotion&logoColor=white) -->
+
+<!-- 
+
+[![Lib_Test](https://img.shields.io/badge/Lib_Test-3DDC84?logo=Lib_Test&logoColor=white)](https://lib-testing-project.netlify.app/)
+ -->
