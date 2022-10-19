@@ -2,9 +2,9 @@
 
 <b>리액트</b> 타입스크립트 개발 합니다.
 
-- [Contributing] [React 공식 문서 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
-- [Work] TotalSoftBank(항만물류 시스템 회사) => TA, RF, YT 등 B2B 웹 프로덕트(풀스택)
-- [Work] TeamSnowBall(e-Sport 데이터 분석) => B2B E-Sport 분석 사이트, B2C Twitch Extension 프로덕트
+- [Contributing] [React 공식 문서 일부 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
+- [Work] [(주)토탈소프트뱅크](http://www.tsb.co.kr/index.php) => TA, RF, YT 등 B2B 웹 프로덕트(풀스택)
+- [Work] [(주)팀스노우볼](https://www.teamsnowball.com/) => B2B E-Sport 분석 사이트, B2C Twitch Extension 프로덕트
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
