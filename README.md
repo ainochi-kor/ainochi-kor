@@ -6,6 +6,7 @@
 - [Work] [(주)토탈소프트뱅크](http://www.tsb.co.kr/index.php) => TA, RF, YT 등 B2B 웹 프로덕트(풀스택)
 - [Work] [(주)팀스노우볼](https://www.teamsnowball.com/) => B2B E-Sport 분석 사이트, B2C Twitch Extension 프로덕트
 - [Test] [Lib Test](https://lib-testing-project.netlify.app/) => 라이브러리 테스트
+- [Test] [d3.js를 Typescript로 테스트 중](https://study-d3.vercel.app/)
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&hide_border=true&hide=contribs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
