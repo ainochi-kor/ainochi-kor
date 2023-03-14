@@ -1,6 +1,19 @@
 # Nochi
-
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) 
+<br />
 <b>리액트</b> 타입스크립트 개발 합니다.
+
+## 책 완독 순차 정렬
+
+- [모던 자바스크립트 Deep Dive](http://www.yes24.com/product/goods/96639635)
+- [클론 코딩으로 시작하는 Next.js](http://www.yes24.com/Product/Goods/97031148)
+- [자바스크립트 코딩 기법과 핵심 패턴](http://www.yes24.com/product/goods/5871083)
+- [하루 5분 UX](http://www.yes24.com/product/goods/111102268)
+- [개발자의 글쓰기](http://www.yes24.com/product/goods/79378905)
+- [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)
+- [프레임워크 없는 프론트엔드 개발](http://www.yes24.com/Product/Goods/96639825)
+- [모던 웹을 위한 HTML+CSS3 바이블](http://www.yes24.com/Product/Goods/72297124)
 
 <!-- - [Contributing] [React 공식 문서 일부 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
 - [Work] [(주)토탈소프트뱅크](http://www.tsb.co.kr/index.php) => TA, RF, YT 등 B2B 웹 프로덕트(풀스택)
@@ -40,8 +53,8 @@ Here are some ideas to get you started:
 
 ## 🌱 경험
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=Vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
+
+
 ![BootStrap](https://img.shields.io/badge/BootStrap-7952B3?logo=BootStrap&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white)
@@ -54,8 +67,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white)
 ![Java_8](https://img.shields.io/badge/java8-red?logo=java&logoColor=white)
 ![Java_11](https://img.shields.io/badge/java11-red?logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=CSS3&logoColor=white)
+
 
 ### 👍 그 외.
 ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=Git&logoColor=white)
