@@ -4,8 +4,9 @@
 <br />
 <b>리액트</b> 타입스크립트 개발 합니다.
 
-## 책 완독 순차 정렬
+## 읽었던 책
 
+- [모던 웹을 위한 HTML+CSS3 바이블](http://www.yes24.com/Product/Goods/72297124)
 - [모던 자바스크립트 Deep Dive](http://www.yes24.com/product/goods/96639635)
 - [클론 코딩으로 시작하는 Next.js](http://www.yes24.com/Product/Goods/97031148)
 - [자바스크립트 코딩 기법과 핵심 패턴](http://www.yes24.com/product/goods/5871083)
@@ -13,7 +14,6 @@
 - [개발자의 글쓰기](http://www.yes24.com/product/goods/79378905)
 - [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)
 - [프레임워크 없는 프론트엔드 개발](http://www.yes24.com/Product/Goods/96639825)
-- [모던 웹을 위한 HTML+CSS3 바이블](http://www.yes24.com/Product/Goods/72297124)
 
 <!-- - [Contributing] [React 공식 문서 일부 수정](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) 
 - [Work] [(주)토탈소프트뱅크](http://www.tsb.co.kr/index.php) => TA, RF, YT 등 B2B 웹 프로덕트(풀스택)
