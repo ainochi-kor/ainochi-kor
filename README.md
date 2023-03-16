@@ -3,7 +3,7 @@
 
 
 
-## Who are you?
+## Who are you? [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fainochi-kor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 **'Nochi'** 는 러시아어로 **'밤'** 이라는 뜻입니다. <br />
 오늘 밤도 성장하는 **Nochi** 를 보내는 프론트엔드 개발자 **'Night'** 입니다.
 
@@ -36,8 +36,6 @@
  
 <div align="center"> 
  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fainochi-kor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br />
 [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/)
 
