@@ -132,5 +132,4 @@ Here are some ideas to get you started:
 ![i18next](https://img.shields.io/badge/i18next-26A69A.svg?logo=i18next&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?logo=MUI&logoColor=white)
 ![Emotion](https://img.shields.io/badge/Emotion-C865B9.svg?logo=Emotion&logoColor=white) 
-[![Lib_Test](https://img.shields.io/badge/Lib_Test-3DDC84?logo=Lib_Test&logoColor=white)](https://lib-testing-project.netlify.app/)
  -->
