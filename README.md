@@ -25,13 +25,13 @@
 
 |📚 Code Book|📚 Read Book|
 |:---|:---|
-|📕 [모던 웹을 위한 HTML+CSS3 바이블](http://www.yes24.com/Product/Goods/72297124)|📘 [하루 5분 UX](http://www.yes24.com/product/goods/111102268)|
-|📕 [모던 자바스크립트 Deep Dive](http://www.yes24.com/product/goods/96639635)|📘 [개발자의 글쓰기](http://www.yes24.com/product/goods/79378905)|
-|📕 [자바스크립트 코딩 기법과 핵심 패턴](http://www.yes24.com/product/goods/5871083)|📘 [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)|
-|📕 [클론 코딩으로 시작하는 Next.js](http://www.yes24.com/Product/Goods/97031148)|📘 [클린코드](http://www.yes24.com/Product/Goods/11681152)|
-|📕 [프레임워크 없는 프론트엔드 개발](http://www.yes24.com/Product/Goods/96639825)||
-|📕 [러닝 타입스크립트](http://www.yes24.com/Product/Goods/116864749)||
-|📕 [실전에서 바로 쓰는 Next.js](http://www.yes24.com/Product/Goods/116790367)||
+|📕 [실전에서 바로 쓰는 Next.js](http://www.yes24.com/Product/Goods/116790367)|📘 [클린코드](http://www.yes24.com/Product/Goods/11681152)|
+|📕 [러닝 타입스크립트](http://www.yes24.com/Product/Goods/116864749)|📘 [객체지향의 사실과 오해](http://www.yes24.com/Product/Goods/18249021)|
+|📕 [자바스크립트 코딩 기법과 핵심 패턴](http://www.yes24.com/product/goods/5871083)|📘 [개발자의 글쓰기](http://www.yes24.com/product/goods/79378905)|
+|📕 [프레임워크 없는 프론트엔드 개발](http://www.yes24.com/Product/Goods/96639825)|📘 [하루 5분 UX](http://www.yes24.com/product/goods/111102268)|
+|📕 [클론 코딩으로 시작하는 Next.js](http://www.yes24.com/Product/Goods/97031148)||
+|📕 [모던 자바스크립트 Deep Dive](http://www.yes24.com/product/goods/96639635)||
+|📕 [모던 웹을 위한 HTML+CSS3 바이블](http://www.yes24.com/Product/Goods/72297124)||
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
