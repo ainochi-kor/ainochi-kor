@@ -4,8 +4,7 @@
 
 
 # Who are you? [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95) [![TISTORY](https://img.shields.io/badge/TISTORY-ec6553?logo=Blog&logoColor=white)](https://ainochi.tistory.com/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/) 
-**'Nochi'** 는 러시아어로 **'밤'** 이라는 뜻입니다. <br />
-오늘 밤도 성장하는 **Nochi** 를 보내는 프론트엔드 개발자 **'Night'** 입니다.
+**'Nochi'** 는 **'밤'** 을 뜻하는 단어입니다. <br />
 
 ### 💼 Experience
 - [🚢 Total Soft Bank LTD.](http://www.tsb.co.kr/index.php) - **[2020/07 - 2021/08]**
