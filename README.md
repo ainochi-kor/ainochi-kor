@@ -3,8 +3,8 @@
 
 
 
-# Who are you? [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@ainochi95) [![TISTORY](https://img.shields.io/badge/TISTORY-ec6553?logo=Blog&logoColor=white)](https://ainochi.tistory.com/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/) 
-**'Nochi'** 는 **'밤'** 을 뜻하는 단어입니다. <br />
+# Who are you? [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://www.instagram.com/nochi_0920.tsx/) 
+**'Nochi'** 는 **'밤'** 을 뜻하는 단어입니다. [어떤 공부하는지 궁금하다면 들어와요](https://nextjs-notion-blog-5ekmupexs-ainochi-kor.vercel.app/)
 
 ### 💼 Experience
 - [🚢 Total Soft Bank LTD.](http://www.tsb.co.kr/index.php) - **[2020/07 - 2021/08]**
