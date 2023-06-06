@@ -31,6 +31,7 @@
 |📕 [클론 코딩으로 시작하는 Next.js](http://www.yes24.com/Product/Goods/97031148)||
 |📕 [모던 자바스크립트 Deep Dive](http://www.yes24.com/product/goods/96639635)||
 |📕 [모던 웹을 위한 HTML+CSS3 바이블](http://www.yes24.com/Product/Goods/72297124)||
+|📕 [코어 자바스크립트](https://www.yes24.com/Product/Goods/78586788)||
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
