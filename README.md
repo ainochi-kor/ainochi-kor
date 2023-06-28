@@ -12,7 +12,7 @@
 
 
 ### 🚀 Contribution
-- [📃 React Contributing](https://github.com/reactjs/ko.reactjs.org/blob/master/content/docs/web-components.md) - **[2021/06]**
+- [📃 React Contributing](https://github.com/reactjs/ko.react.dev/pull/324) - **[2021/06]**
 
 ### 🔨 Working Skill
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
