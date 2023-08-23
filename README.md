@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:30cfd0,100:330867&height=200&text=Nochi&fontAlign=70&fontColor=ffffff&rotate=13&fontAlignY=25&desc=Front-End%20Developer&descAlign=70.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:30cfd0,100:330867&height=200&text=Nochi&fontAlign=70&fontColor=ffffff&rotate=13&fontAlignY=25&desc=Front-End%20Developer&descAlign=70&descAlignY=44)
 
 
 
