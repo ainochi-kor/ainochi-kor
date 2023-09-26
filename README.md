@@ -21,6 +21,11 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) 
 <br />
 
+### 🤦 Group
+- [FE Drilling](https://github.com/fe-drilling) <br/>
+- [BD Crew](https://github.com/bdcrew) <br/>
+- [F-Lab](https://github.com/f-lab-edu) <br/>
+
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
