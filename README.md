@@ -16,9 +16,10 @@
 - [📃 Next.kr Contributing](https://github.com/Nextjs-kr/Nextjs.kr/blob/main/docs/03-pages/01-building-your-application/06-configuring/12-error-handling.mdx)
 
 ### 🔨 Working Skill
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white)
+
 <br />
 
 ### 🤦 Group
