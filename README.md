@@ -20,7 +20,7 @@
 
 ### 🪐 Contect
 - kthrkdals@kakao.com
-- 
+- [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B0%95-508191248/)
 
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
