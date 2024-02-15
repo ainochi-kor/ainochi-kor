@@ -19,7 +19,6 @@
 - [F-Lab](https://github.com/f-lab-edu) <br/>
 
 ### 🪐 Contect
-- kthrkdals@kakao.com
 - [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B0%95-508191248/)
 
 
