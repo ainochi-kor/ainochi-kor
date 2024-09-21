@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:30cfd0,100:330867&height=200&text=Nochi&fontAlign=70&fontColor=ffffff&rotate=13&fontAlignY=25&desc=Front-End%20Developer&descAlign=70&descAlignY=44)
+
+<a href="https://github.com/devxb/gitanimals" style="background:red" >
+  <img src="https://render.gitanimals.org/lines/ainochi-kor?pet-id=1" width="1000" height="240"/>
+</a>
 
 
 # Who are you?
@@ -33,6 +36,9 @@
 <br/>
 
 [![Tommy's github stats](https://github-readme-stats.vercel.app/api?username=ainochi-kor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<br/>
 
 
 <br/>
