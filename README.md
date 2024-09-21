@@ -1,9 +1,11 @@
-
-<a href="https://github.com/devxb/gitanimals" style="background:red" >
-  <img src="https://render.gitanimals.org/lines/ainochi-kor?pet-id=1" width="1000" height="240"/>
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/ainochi-kor"
+    width="600"
+    height="300"
+  />
 </a>
-
-
+  
 # Who are you?
 **'Nochi'** 는 **'밤'** 을 뜻하는 단어입니다.
 
