@@ -26,9 +26,6 @@
 - [Decakill](https://decakill.com/) (terminated)
 - etc...
 
-### 현재 공부 중인 것
-- [몬스터테이머 - 작업 중](https://monster-tamer.vercel.app/)
-
 ### 외부 활동 이력
 - 2024.10 [2024 우아콘] 이그나이트 발표
 - 2024.10 [글또 10기] 합류
