@@ -20,12 +20,6 @@
 - [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B0%95-508191248/)
 - [Blog](https://velog.io/@ainochi95/posts)
 
-### 접혀버린 프로젝트들
-- [소주도](https://www.soju-do.com/) (unmanaged)
-- [WAGG](https://wa.gg/) (terminated)
-- [Decakill](https://decakill.com/) (terminated)
-- etc...
-
 ### 외부 활동 이력
 - 2024.11 [제 6회 K-디지털 트레이닝 해커톤 대회] 본선 멘토 활동
 - 2024.10 [2024 우아콘] [이그나이트 발표](https://www.youtube.com/watch?v=EYs_edYyKJc&list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a&index=37)
@@ -34,11 +28,17 @@
 - 2023.11 [글또 9기] 합류
 
 ### 주저리 주저리
-현재 글또 9기에 이어서 10기로 활동 중 입니다. 요즘은 자바스크립트로 할 수 있는 개발에 관심이 많습니다. (자바스크립트에 매몰되어 있다보니 그렇네요.)
+잊혀질 것들을 만들었네요.  
+잊혀지지 않을 수 있도록 오늘도 노력해야겠어요.  
+  
+회사에서 듣는 고객의 소리가 아닌,  
+개발자가 고객의 소리에 귀를 기울이는 방법에 대해 고민해야겠어요.  
 
-React 프론트엔드로서 React를 깊게 파기만 해도 시간이 부족한 걸 압니다. 그러나, 지금 현재 제 상황에서 나아질 수 있는 방법들을 고민하다보니 더 깊은 심층적 이해가 필요해지는 시기가 올 때까지는 다양한 것들을 배워보고 싶어졌습니다. 지금은 react-native를 통한 모바일, Nest.js를 통한 백엔드 그리고 phaser3를 이용한 웹 게임 개발을 배우면서 다양한 패러다임과 사용법을 통해 매몰되어 있던 제 개발에 변화의 바람이 불고 있네요. 
-
-배운건 Nest.js지만 회사 백엔드 코드를 읽을 수 있게 되면서 구조에 대해 깊은 이해가 가능해졌고, react-native를 배우면서 디자이너와 모바일 UI에 대해서 더 깊게 이야기 할 수 있었습니다. 게임 개발을 하면서 객체를 다루는 방법에 대해 고민을 많이 하게 되었고 모두 제가 개발자로 성장하는데 도움이 많이 되었습니다. 
+**접혀버린 프로젝트들**
+- [소주도](https://www.soju-do.com/) (unmanaged)
+- [WAGG](https://wa.gg/) (terminated)
+- [Decakill](https://decakill.com/) (terminated)
+- etc...
 
 <br/>
 
