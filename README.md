@@ -22,7 +22,7 @@
 
 ### 외부 활동 이력
 - 2024.11 [제 6회 K-디지털 트레이닝 해커톤 대회] 본선 멘토 활동
-- 2024.10 [2024 우아콘] [이그나이트 발표](https://www.youtube.com/watch?v=EYs_edYyKJc&list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a&index=37)
+- 2024.10 [2024 우아콘] [이그나이트 스피커](https://www.youtube.com/watch?v=EYs_edYyKJc&list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a&index=37)
 - 2024.10 [글또 10기](https://geultto.github.io/) 합류
 - 2024.06 [대림대학교 현업자 멘토링] 멘토
 - 2023.11 [글또 9기] 합류
@@ -34,7 +34,7 @@
 회사에서 듣는 고객의 소리가 아닌,  
 개발자가 고객의 소리에 귀를 기울이는 방법에 대해 고민해야겠어요.  
 
-**접혀버린 프로젝트들**
+**잊혀져가는**
 - [소주도](https://www.soju-do.com/) (unmanaged)
 - [WAGG](https://wa.gg/) (terminated)
 - [Decakill](https://decakill.com/) (terminated)
