@@ -24,6 +24,7 @@
 - 2024.11 [제 6회 K-디지털 트레이닝 해커톤 대회] 본선 멘토 활동
 - 2024.10 [2024 우아콘] [이그나이트 스피커](https://www.youtube.com/watch?v=EYs_edYyKJc&list=PLgXGHBqgT2Tu7H-ita_W0IHospr64ON_a&index=37)
 - 2024.10 [글또 10기](https://geultto.github.io/) 합류
+  - 2025.01.07 [[큐레이션 선정] CSS의 새 로고 Color: “rebeccapurple”에 관한 이야기.](https://velog.io/@ainochi95/CSS%EC%9D%98-%EC%83%88-%EB%A1%9C%EA%B3%A0-Color-rebeccapurple%EC%97%90-%EA%B4%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0)  
 - 2024.06 [대림대학교 현업자 멘토링] 멘토
 - 2023.11 [글또 9기] 합류
 
