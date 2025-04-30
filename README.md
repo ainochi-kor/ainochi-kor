@@ -9,15 +9,6 @@
 # Who are you?
 **'Nochi'** 는 **'밤'** 을 뜻하는 단어입니다.  
 
-### 주저리 주저리
-잊혀질 것들을 만들었네요.  
-잊혀지지 않을 수 있도록  
-오늘도 노력해야겠어요.  
-
-잊혀지는 프로덕트가 없도록  
-귀를 기울이는 방법에 대해   
-고민하고 있어요.  
-
 ### 🪐 연락처 및 블로그
 - [LinkedIn](https://www.linkedin.com/in/%EB%AF%BC%EC%84%9D-%EA%B0%95-508191248/)
 - [Blog](https://velog.io/@ainochi95/posts)
@@ -34,12 +25,6 @@
 - [📃 React Contributing](https://github.com/reactjs/ko.react.dev/pull/324)
 - [📃 Next.kr Contributing](https://github.com/Nextjs-kr/Nextjs.kr/blob/main/docs/03-pages/01-building-your-application/06-configuring/12-error-handling.mdx)
 
-
-**잊혀져가는**
-- [소주도](https://www.soju-do.com/) (unmanaged)
-- [WAGG](https://wa.gg/) (terminated)
-- [Decakill](https://decakill.com/) (terminated)
-- etc...
 
 <br/>
 
